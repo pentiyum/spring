@@ -1,0 +1,6 @@
+API DESIGN in Spring BOOT
+.........
+
+Client							SERVER
+HTTP-Request		-->			Controller-->Service->MySQL
+                         
